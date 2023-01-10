@@ -55,6 +55,8 @@ httpd.serve_forever()
 
 
 # OUTPUT:
+server side view:
+![image](https://user-images.githubusercontent.com/118707879/211472439-07011d63-6e77-4159-96e8-13270220f2ef.png)
 
 
 
