@@ -55,9 +55,11 @@ httpd.serve_forever()
 
 
 # OUTPUT:
-server side view:
+# server side view:
 ![image](https://user-images.githubusercontent.com/118707879/211472439-07011d63-6e77-4159-96e8-13270220f2ef.png)
 
+# client side view
+![Screenshot_20230110_111335](https://user-images.githubusercontent.com/118707879/211472650-f17c7756-153f-4a50-b749-638edfe76142.png)
 
 
 # RESULT:
