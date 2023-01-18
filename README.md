@@ -1,8 +1,7 @@
 # Developing a Simple Webserver
 
 # AIM:
-pravin raj.A 22007200
-
+PRAVIN RAJ.A 22007200
 
 # DESIGN STEPS:
 
@@ -35,7 +34,7 @@ content ="""
 <head>
 </head>
 <body>
-<h1>DJANGO</h1>
+<h1>Welcome</h1>
 </body>
 </html>
 """
